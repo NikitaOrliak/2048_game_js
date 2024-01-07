@@ -1,7 +1,5 @@
 # 2048 game
 
-This is a 2048 game created by me.
-
 Technologies that were used:
 - HTML
 - SCSS
